@@ -7,8 +7,8 @@ A simple web app built with **Flask** and **PyCryptodome** that demonstrates enc
 ##  Group Members
 
 - Rameen  
--Isma
----
+- Isma
+
 
 ## 💡 Project Description
 
